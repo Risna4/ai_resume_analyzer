@@ -1,0 +1,6 @@
+test_case,expected_top_role,actual_top_role,result,comments
+Resume A,Data Scientist,Data Scientist,Pass,Data Scientist ranked first with a 32.08% match score
+Resume B,Machine Learning Engineer,Machine Learning Engineer,Pass,Machine Learning Engineer ranked first with a 39.18% match score
+Resume C,NLP Engineer,NLP Engineer,Pass,NLP Engineer ranked first with a 39.29% match score
+Resume D,Data Analyst,Data Analyst,Pass,Data Analyst ranked first with a 30.92% match score
+Resume E,Python Developer,Python Developer,Pass,Python Developer ranked first with a 29.41% match score
