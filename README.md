@@ -1,4 +1,7 @@
 # AI Resume Analyzer and Job Recommendation System
+## Live Application
+
+[Open the AI Resume Analyzer](https://airesumeanalyzer-jrgdnrqqrwsfosujphyajb.streamlit.app/)
 
 ## Project Overview
 
